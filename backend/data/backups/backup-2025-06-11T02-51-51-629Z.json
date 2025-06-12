@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "1748222178350",
+      "name": "Test Product",
+      "price": 99.99,
+      "description": "Test product",
+      "category": "فئة-اختبار-1748218274405",
+      "image": null,
+      "createdAt": "2025-05-26T01:16:18.350Z",
+      "updatedAt": "2025-05-26T01:16:18.350Z"
+    },
+    {
+      "id": "1748222319924",
+      "name": "Test Product",
+      "price": 99.99,
+      "description": "Test product",
+      "category": "فئة-اختبار-1748218274405",
+      "image": null,
+      "createdAt": "2025-05-26T01:18:39.924Z",
+      "updatedAt": "2025-05-26T01:18:39.924Z"
+    },
+    {
+      "id": "1748222753705",
+      "name": "Test Product",
+      "price": 99.99,
+      "description": "Test product",
+      "category": "فئة-اختبار-1748218274405",
+      "image": null,
+      "createdAt": "2025-05-26T01:25:53.705Z",
+      "updatedAt": "2025-05-26T01:25:53.705Z"
+    },
+    {
+      "id": "1749602248275",
+      "name": "خهعف",
+      "price": 567,
+      "description": "حخهغفبلغهخ",
+      "category": "juyrtyu",
+      "image": "/uploads/products/1749602248271-461723636.jpg",
+      "createdAt": "2025-06-11T00:37:28.275Z",
+      "updatedAt": "2025-06-11T00:37:28.275Z"
+    }
+  ],
+  "categories": [
+    "فئة-اختبار-1748218274405",
+    "فئة-اختبار-1748221424259",
+    "juyrtyu"
+  ],
+  "settings": {
+    "about": {
+      "title": "من نحن",
+      "content": "مرحباً بكم في مشكاة، وجهتكم الأولى للهدايا الإسلامية المميزة والفريدة.",
+      "features": [
+        "المصاحف الشريفة بمختلف الأحجام والتصاميم",
+        "سجادات الصلاة المصنوعة يدوياً",
+        "المسابح التقليدية والحديثة",
+        "الكتب والمراجع الإسلامية"
+      ]
+    },
+    "contact": {
+      "email": "info@islamic-gifts.com",
+      "phone": "07838337327",
+      "address": "النجف الاشرف - ملحق شارع الروان11"
+    },
+    "footer": {
+      "description": "حخهعالبرلاىةوزةىلا"
+    }
+  },
+  "timestamp": "2025-06-11T02:51:51.629Z"
+}
